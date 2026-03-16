@@ -1,0 +1,1 @@
+Apache Hadoop MapReduce framework processes massive datasets across large clusters of hardware in parallel. Map tasks split input, shuffle and sort intermediate keys, and Reduce tasks aggregate results.

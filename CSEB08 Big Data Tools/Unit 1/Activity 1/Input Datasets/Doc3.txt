@@ -1,0 +1,1 @@
+Big Data refers to extremely large volumes of data generated at high velocity. Distributed computing frameworks like Hadoop and Spark are essential for storing and analyzing Big Data.

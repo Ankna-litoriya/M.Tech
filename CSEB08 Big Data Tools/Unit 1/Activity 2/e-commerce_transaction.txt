@@ -1,0 +1,7 @@
+TransactionID,UserID,ProductID,Category,City,Quantity,Price,PaymentMode,Date
+T1001,U101,P501,Electronics,Mumbai,1,25000,CreditCard,2026-02-14
+T1002,U102,P502,Fashion,Delhi,3,1500,UPI,2026-02-15
+T1003,U103,P503,Grocery,Bangalore,5,200,Cash,2026-02-16
+T1004,U104,P504,Electronics,Chennai,2,18000,DebitCard,2026-02-17
+T1005,U105,P505,Fashion,Kolkata,4,2200,UPI,2026-02-18
+T1006,U106,P506,Electronics,Hyderabad,1,32000,CreditCard,2026-02-18

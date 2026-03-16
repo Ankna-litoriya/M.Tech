@@ -1,0 +1,1 @@
+Hadoop Distributed File System (HDFS) is the primary distributed storage used by Hadoop applications. A HDFS cluster consists of a NameNode that manages metadata and DataNodes that store actual data blocks.
